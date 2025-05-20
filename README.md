@@ -1,2 +1,2 @@
 # C---Projects
-This folder contains projects i did in C Programming language
+This folder contains projects that i did in C Programming language
